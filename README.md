@@ -54,5 +54,5 @@ theme-toggle/
 └── screenshot.png
 ```
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Made with ❤️ by Your Abdur Rahman
